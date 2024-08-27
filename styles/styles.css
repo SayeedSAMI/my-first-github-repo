@@ -1,0 +1,17 @@
+
+header{
+background-color: aliceblue;
+    border: 10px solid rgb(228, 48, 228);
+    box-shadow: 10px 10px 10px purple;
+    background-color: aquamarine;
+
+}
+.div{
+    margin: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+    border: 10px  solid rgb(242, 10, 242);
+    box-shadow: 10px 10px 10px purple;
+    
+
+}
